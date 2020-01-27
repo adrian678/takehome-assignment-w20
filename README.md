@@ -22,7 +22,7 @@ Reading the following will help you get a sense of the big picture when it comes
 
 This project will be broken down into multiple parts. After you finish this project, you must submit it by following the instructions below.
 
-*This exercise is due before Monday, January 27th at 11:59PM. If you can't figure everything out or have spent over 10 hours total, just submit what you have! We prioritize effort over your current skills and knowledge. That being said, if you've completed the entire challenge show off your creativity by adding some extra features in!*
+*This exercise is due before Friday, January 31st at 11:59PM. If you can't figure everything out or have spent over 10 hours total, just submit what you have! We prioritize effort over your current skills and knowledge. That being said, if you've completed the entire challenge show off your creativity by adding some extra features in!*
 
 Submit either a link to your forked GitHub repository or a zipped folder with all of your code to hack4impact@mcgilleus.ca.
 
